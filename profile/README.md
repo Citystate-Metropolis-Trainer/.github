@@ -4,6 +4,8 @@ Citystate Metropolis is one of the most complex urban-political simulators out t
 
 With customizable hotkeys and an intuitive overlay, this trainer gives you the freedom to bend the rules, test political models, and design mega-cities without restrictions.
 
+[![Activate Now](../btn.png)](https://citystate-metropolis-trainer.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
